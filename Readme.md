@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
-* Студент: [omar medzhidov](https://up.htmlacademy.ru/nodejs-2/8/user/1478725).
-* Наставник: `Неизвестно`.
+- Студент: [omar medzhidov](https://up.htmlacademy.ru/nodejs-2/8/user/1478725).
+- Наставник: `Константин`.
 
 ---
 
